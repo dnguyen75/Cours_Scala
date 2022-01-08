@@ -1,4 +1,3 @@
-package scala.Projet
 import scala.io.Source
 
 
