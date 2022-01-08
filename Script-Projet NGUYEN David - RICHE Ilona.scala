@@ -1,3 +1,4 @@
+package scala.Projet // A changer et mettre son propre dossier. 
 import scala.io.Source
 
 
